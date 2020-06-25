@@ -17,4 +17,4 @@ npm run build
 
 ```
 
-API: 
+API: https://binaryify.github.io/NeteaseCloudMusicApi/#/
